@@ -1,4 +1,4 @@
-Python is a most powerfull programming language used to the data Visualization, Data Analysis, Scientific Computing and ovther very crucial field. The developer or programmer used it to the scratch because of it wide range in most of all sector and also with the help of tools and libraries like I mentioned below:
+Python is a most powerfull programming language used to the data Visualization, Data Analysis, Scientific Computing and also in other very crucial fields or domains of digital world . The developer or programmer used it to the scratch because of it wide range in most of all sector and also with the help of tools and libraries like I mentioned below:
 Python + Django = Web Development
 
 Python + Matplotlib = Data Visualization
